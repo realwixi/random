@@ -1,17 +1,17 @@
 #wisdom of crowd
 from statistics import mean
-li=[]
+list=[]
 r=int(input("number of sample==>"))
 print("elementsV")
 for i in range(r+1):
     y=int(input())
-    li.append(y)
-print(li)
-li.sort()
+    list.append(y)
+print(list)
+list.sort()
 tv=int(r*0.1)
-li=li[tv:]
-li=li[:r-tv]
-print(mean(li))
+list=list[tv:]
+list=list[:r-tv]
+print(mean(list))
 
     
 
