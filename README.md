@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 > - *He/Him* </br>
 > - **pseudonym: relwixi** </br>
 > - **Contact me through: [twitter](https://twitter.com/realwixi)**  </br>
-- **[my personal blog](https://lifeofrealwixi.blogspot.com/)**
+
 
     
